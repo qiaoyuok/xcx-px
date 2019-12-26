@@ -1,0 +1,16 @@
+﻿{
+    "star": [
+        {
+            "count": 5,
+            "times": 2
+        },
+        {
+            "count": 7,
+            "times": 3
+        },
+        {
+            "count": 10,
+            "times": 5
+        }
+    ]
+}

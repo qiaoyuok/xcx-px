@@ -1,0 +1,59 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.NotTowerDefense",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.NotTowerDefense",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "startScene": "589c7f57-1f08-4b9e-ace9-27ac2399c93b",
+  "title": "wahah",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "ttd2e9a4544dc311c3",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "03477796-8f6a-42",
+  "zipCompressJs": true,
+  "android": {
+    "packageName": "org.cocos2d.NotTowerDefense"
+  },
+  "ios": {
+    "packageName": "org.cocos2d.NotTowerDefense"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.NotTowerDefense"
+  },
+  "win32": {}
+}

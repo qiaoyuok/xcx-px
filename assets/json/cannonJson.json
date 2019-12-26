@@ -1,0 +1,394 @@
+﻿{
+    "cannons": [
+        {
+            "level": 1,
+            "fireInterval": 1,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 10
+        },
+        {
+            "level": 2,
+            "fireInterval": 1,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 32
+        },
+        {
+            "level": 3,
+            "fireInterval": 0.6,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 32
+        },
+        {
+            "level": 4,
+            "fireInterval": 0.8,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 34
+        },
+        {
+            "level": 5,
+            "fireInterval": 0.5,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 34
+        },
+        {
+            "level": 6,
+            "fireInterval": 0.5,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 54
+        },
+        {
+            "level": 7,
+            "fireInterval": 0.4,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 70
+        },
+        {
+            "level": 8,
+            "fireInterval": 0.4,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 112
+        },
+        {
+            "level": 9,
+            "fireInterval": 0.4,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 180
+        },
+        {
+            "level": 10,
+            "fireInterval": 0.6,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 432
+        },
+        {
+            "level": 11,
+            "fireInterval": 0.6,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 692
+        },
+        {
+            "level": 12,
+            "fireInterval": 0.4,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 738
+        },
+        {
+            "level": 13,
+            "fireInterval": 0.5,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 1476
+        },
+        {
+            "level": 14,
+            "fireInterval": 0.3,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 1416
+        },
+        {
+            "level": 15,
+            "fireInterval": 0.3,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 2264
+        },
+        {
+            "level": 16,
+            "fireInterval": 0.6,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 7246
+        },
+        {
+            "level": 17,
+            "fireInterval": 0.8,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 15456
+        },
+        {
+            "level": 18,
+            "fireInterval": 0.3,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 9270
+        },
+        {
+            "level": 19,
+            "fireInterval": 0.5,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 24732
+        },
+        {
+            "level": 20,
+            "fireInterval": 0.46,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 36404
+        },
+        {
+            "level": 21,
+            "fireInterval": 0.2,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 25324
+        },
+        {
+            "level": 22,
+            "fireInterval": 0.3,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 60780
+        },
+        {
+            "level": 23,
+            "fireInterval": 0.26,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 84280
+        },
+        {
+            "level": 24,
+            "fireInterval": 0.22,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 114104
+        },
+        {
+            "level": 25,
+            "fireInterval": 0.2,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 165972
+        },
+        {
+            "level": 26,
+            "fireInterval": 0.3,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 398334
+        },
+        {
+            "level": 27,
+            "fireInterval": 0.2,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 424890
+        },
+        {
+            "level": 28,
+            "fireInterval": 0.2,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 679825
+        },
+        {
+            "level": 29,
+            "fireInterval": 0.2,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 1087720
+        },
+        {
+            "level": 30,
+            "fireInterval": 0.2,
+            "position": 0,
+            "bulletCount": 1,
+            "bulletPosX": [
+                0
+            ],
+            "bulletPosY": [
+                0
+            ],
+            "attack": 1740355
+        }
+    ]
+}
